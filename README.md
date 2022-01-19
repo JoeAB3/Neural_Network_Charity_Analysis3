@@ -16,3 +16,8 @@ Deliverable #1:
 
 <img width="602" alt="2022-01-18 (2)" src="https://user-images.githubusercontent.com/86638388/150061177-6c90ea32-581d-4e37-b4a5-771c7ae307c5.png">
 
+The initial model only achieved a accuracy of 72.8% so additional optimization was necessary
+
+Model #1 (adding an additional layer)
+<img width="488" alt="2022-01-18 (3)" src="https://user-images.githubusercontent.com/86638388/150061677-17af0d4c-6abf-491e-bd52-646a33580ef7.png">
+accuracy only rose to 73.6% so another optimization model was run,
