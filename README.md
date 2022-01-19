@@ -35,6 +35,10 @@ Model #3 (Changing the activation functions)
 
 <img width="486" alt="2022-01-18 (5)" src="https://user-images.githubusercontent.com/86638388/150062136-cbe3daca-61db-444d-92a4-7f70d98bac1e.png">
 
+accuracy fell again.  This time to 73.6%
+
+In summary:
+Despite all these models, accuracy never grew much beyond 73%.  This is below the target predictive accuracy of 75%.  Of cource, more modeling could be done to see if it can exceed the 75%.  Perhaps exploring more hidden levels or neurons.
 
 
 
