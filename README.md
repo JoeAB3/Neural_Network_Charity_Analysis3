@@ -13,3 +13,6 @@ Deliverable 4: A Written Report on the Neural Network Model (README.md)
 
 Deliverable #1:
 <img width="963" alt="2022-01-18 (1)" src="https://user-images.githubusercontent.com/86638388/150060884-df7f316a-e2ce-43ff-a2b7-061ae69971ad.png">
+
+<img width="602" alt="2022-01-18 (2)" src="https://user-images.githubusercontent.com/86638388/150061177-6c90ea32-581d-4e37-b4a5-771c7ae307c5.png">
+
